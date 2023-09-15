@@ -19,4 +19,4 @@ Use this repo to share and keep track of cyber/information security internships!
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[H-E-B](https://simplify.jobs/c/Extreme-Networks)** | Internship - Information Security | San Antonio, TX, USA</br>Austin, TX, USA | [Apply here](https://interns-heb.icims.com/jobs/92780/internship---information-security/job?mobile=false&width=1210&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | Sep 1 |
+| **[H-E-B](https://careers.heb.com/university-grads-interns/interns/)** | Internship - Information Security | San Antonio, TX, USA</br>Austin, TX, USA | [Apply here](https://interns-heb.icims.com/jobs/92780/internship---information-security/job?mobile=false&width=1210&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | Sep 1 |
