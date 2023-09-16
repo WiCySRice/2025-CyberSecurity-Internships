@@ -11,6 +11,7 @@ Use this repo to share and keep track of cyber/information security internships!
 ### Legend
  - 🛂 - Does NOT offer Sponsorship
  - 🇺🇸 - Requires U.S. Citizenship
+ - 🗺 - Does NOT require U.S. citizenship
  - ❓ - Sponsorship/Visa/Citizenship Not Mentioned
  - 🔒 - Application Closed
 
@@ -96,4 +97,9 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
+| **[Este Lauder](https://www.esteelauder.com/products/1799/product-catalog/bestsellers)** | Summer 2024 Intern, Enterprise Cyber Security and Risk | United States (Multiple) | [Apply here](https://jobs.elcompanies.com/estee-lauder-companies/jobs/2313359?lang=en-us) | 🗺️ ❓ | Unknown |
+| **[Jack's Links](https://www.jacklinks.com/)** | IT Security Intern | Minneapolis, MN | [Apply here](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/743999929739521-it-security-intern?trid=84611281-e75b-46d6-94d7-5e3fd3c1de5e) | 🗺️ ❓ | Unknown |
+| **[Cargill](https://www.cargill.com/)** | Risk Management and Sourcing IT Co-op Summer 2024 | Wayzata, Minnesota </br>Minneapolis-St. Paul-Bloomington, Minnesota | [Apply here](https://careers.cargill.com/en/job/-/-/23251/52551793472?ss=paid&dclid=CMiB_JutqYEDFcPP9gIdixgIrA) | ❓ | August 4, 2023 |
+| **[Hallmark Cards](https://www.hallmark.com/)** | 2024 Summer Internship - Information Technology (Information Security Rotation) | Kansas City, MO | [Apply here](https://recruiting2.ultipro.com/HAL1009HLLI/JobBoard/ab752bd2-ff61-4489-a86c-18d808fa6f00/OpportunityDetail?opportunityId=ee10c5ce-ecae-4af8-b21f-4ce93854239e) | 🛂 ❓ | August 30, 2023 |
+| **[D.R. Horton](https://www.drhorton.com/)** | Summer 2024 IT Intern - Cyber Security | Arlington, TX | [Apply here](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2304322&lang=en) | ❓ | September 6, 2023 |
+| **[Shaw Industries Group, Inc](https://shawinc.com/)** | Summer 2024 Information Technology Co-Op | Remote | [Apply here](https://shawinc.wd1.myworkdayjobs.com/External/job/Summer-2024-Information-Technology-Co-Op--remote-_R-115925) | ❓ | Unknown |
