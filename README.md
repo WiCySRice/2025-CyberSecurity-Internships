@@ -15,37 +15,37 @@ Use this repo to share and keep track of cyber/information security internships!
  - ❓ - Sponsorship/Visa/Citizenship Not Mentioned
  - 🔒 - Application Closed
 
-## Technology
+## Technology 🖥️
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
 
-## Cyber Security
+## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
 
-## U.S. Government
+## U.S. Government 🦅
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[FBI]()** | Internship - Honors Intern | Varies| [Apply Here](https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=50618&PostingSeq=1&) | 🛂 🇺🇸 | Sep 5, 23 |
 
-## Defense Contractors
+## Defense Contractors 📄
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
 
-## Banking / Insurance / Investments / Taxes
+## Banking / Insurance / Investments / Taxes 💰
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[USAA]()** | Internship - Cyber Security | Varies| [Apply Here](https://www.usaajobs.com/job/san-antonio/cyber-security-intern/1207/53982784752) | ❓ | Nov 5, 23 |
 
-## Consulting
+## Consulting 🤝
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
@@ -53,20 +53,20 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Crowe](https://www.crowe.com/)** | Third Party Cybersecurity Intern Summer 2024 | Various in USA | [Apply here](https://crowe.recsolu.com/jobs/zgCsmnKQlvvWqKdlXsEn0w?job_board_id=WB2bjvZ0DnUiIiTm6amL_g) | ❓ | Unknown |
 | **[Crowe](https://www.crowe.com/)** | Digital Security Intern Summer 2024 | Various in USA | [Apply here](https://crowe.recsolu.com/jobs/zgCsmnKQlvvWqKdlXsEn0w?job_board_id=WB2bjvZ0DnUiIiTm6amL_g) | ❓ | Unknown |
 
-## Energy
+## Energy 💡
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Chevron](https://www.chevron.com/)** | Internship - Information Security | Houston, TX, USA<br>San Ramon, CA, USA<br>Bakersfield, CA, USA<br>Covington, LA, USA<br>Midland, TX, USA<br>Ames, IA, USA<br>Geismar, LA, USA | [Apply Here](https://chevron.eightfold.ai/careers/job/16888581-2023-2024-information-technology-%E2%80%93-information-security-intern-houston-texas-united-states-of-america) | 🛂 🇺🇸 | Unknown |
 | **[Power Integrations](https://www.power.com/)** | Cybersecurity Intern | San Jose, CA, USA | [Apply here](https://www.linkedin.com/jobs/view/3643876237/) | ❓ | July 15, 2023 |
 
-## Healthcare
+## Healthcare 🧑‍⚕️ ⚕️
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Medline](https://www.medline.com/)** | Information Security Analyst Intern - Summer 2024 | Libertyville, IL, USA | [Apply here](https://medline.taleo.net/careersection/md_external/jobdetail.ftl?job=INT0100I8) | 🗺️ | Unknown |
 
-## Machinery / Tools / HVAC / Water
+## Machinery / Tools / HVAC / Water 🛠️ 🚰
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
@@ -76,7 +76,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Carrier](https://www.carrier.com/carrier/en/worldwide/)** | Product Cybersecurity Intern | Pal Beach Gardens, FL, USA | [Apply here](https://jobs.carrier.com/job/palm-beach-gardens/product-cybersecurity-intern/29289/53796115072) | 🇺🇸 | Unknown |
 | **[Pentair](https://www.pentair.com/)** | IT and Cybersecurity Leadership Development Program Internship - Summer 2024 | Golden Valley, MN, USA | [Apply here](https://pentair.wd5.myworkdayjobs.com/Pentair_Careers/job/Golden-Valley-MN/IT-and-Cybersecurity-Leadership-Development-Program-Internship---Summer-2024_R17397?source=LinkedIn&source=shared_id) | 🛂 | September 12, 2023 |
 
-## Retailer / Consumer Goods
+## Retailer / Consumer Goods 🏬
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
@@ -87,7 +87,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Mattress Firm](https://www.mattressfirm.com/)** | Cyber Security Intern | Houston, TX, USA | [Apply here](https://mattressfirm.wd1.myworkdayjobs.com/CorporateCareers/job/Houston-Texas/Cyber-Security-Intern_JR-P0048477?source=LinkedIn) | 🗺️ | August 30, 2023 |
 | **[Procter & Gamble (P&G)](https://us.pg.com/)** | IT Engineer (Cybersecurity) | Cincinnati, OH, USA | [Apply here](https://www.pgcareers.com/global/en/job/R000086643/IT-Engineer-Internship) | 🛂 | Unknown |
 
-## Transportation / Shipping
+## Transportation / Shipping ✈️ 🚅 🚗 🚚
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
@@ -97,7 +97,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Southwest](https://www.southwest.com/)** | Cybersecurity Analyst Spring 2024 Intern | Remote | [Apply here](https://careers.southwestair.com/job/R-2023-34187/Cybersecurity-Analyst-Spring-2024-Intern-Remote) | 🛂 | September 1, 2023 |
 
 
-## Sports / Sports Equipment
+## Sports / Sports Equipment 🏃
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
@@ -105,7 +105,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Major League Baseball](https://www.mlb.com/)** | Information Security Internship | New York, NY, USA | [Apply here](https://www.mlb.com/careers/opportunities?gh_jid=3814742) | 🛂 ❓ | Unknown |
 | **[Dick’s Sporting Goods](https://www.dickssportinggoods.com/)** | Summer 2024 Cybersecurity Internship | Pittsburgh, PA, USA | [Apply here](https://www.dickssportinggoods.jobs/jobs/19046067/summer-2024-cybersecurity-internship-coraopolis-pa/?src=11663) | 🛂 ❓ | Unknown |
 
-## Miscellaneous
+## Miscellaneous :octocat:
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
