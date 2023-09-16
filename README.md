@@ -91,7 +91,9 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
+| **[Brooks Running](https://www.brooksrunning.com/en_us)** | Information Security Undergraduate Internship | Seattle, WA | [Apply here](https://jobs.lever.co/brooksrunning/08339175-a051-48cf-98c2-7935095ce076) | ❓ | Unknown |
+| **[Major League Baseball](https://www.mlb.com/)** | Information Security Internship | New York, NY | [Apply here](https://www.mlb.com/careers/opportunities?gh_jid=3814742) | 🛂 ❓ | Unknown |
+| **[Dick’s Sporting Goods](https://www.dickssportinggoods.com/)** | Summer 2024 Cybersecurity Internship | Pittsburgh, PA | [Apply here](https://www.dickssportinggoods.jobs/jobs/19046067/summer-2024-cybersecurity-internship-coraopolis-pa/?src=11663) | 🛂 ❓ | Unknown |
 
 ## Miscellaneous
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
