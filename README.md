@@ -49,25 +49,22 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
+| **[PwC](https://www.pwc.com/us/en.html)** | Cyber Security Consulting Intern - Summer 2025 - Women's Consulting Experience | Various in USA | [Apply here](https://jobs.us.pwc.com/job/-/-/932/54096566416?ss=paid&dclid=CL2kpuivqYEDFY3N9gIduAIPjw) | 🛂 🗺️ | Unknown |
+| **[Crowe](https://www.crowe.com/)** | Third Party Cybersecurity Intern Summer 2024 | Various in USA | [Apply here](https://crowe.recsolu.com/jobs/zgCsmnKQlvvWqKdlXsEn0w?job_board_id=WB2bjvZ0DnUiIiTm6amL_g) | ❓ | Unknown |
+| **[Crowe](https://www.crowe.com/)** | Digital Security Intern Summer 2024 | Various in USA | [Apply here](https://crowe.recsolu.com/jobs/zgCsmnKQlvvWqKdlXsEn0w?job_board_id=WB2bjvZ0DnUiIiTm6amL_g) | ❓ | Unknown |
 
 ## Energy
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Chevron]()** | Internship - Information Security | Houston, TX, USA<br>San Ramon, CA, USA<br>Bakersfield, CA, USA<br>Covington, LA, USA<br>Midland, TX, USA<br>Ames, IA, USA<br>Geismar, LA, USA | [Apply Here](https://chevron.eightfold.ai/careers/job/16888581-2023-2024-information-technology-%E2%80%93-information-security-intern-houston-texas-united-states-of-america) | 🛂 🇺🇸 | Unknown |
-
-## Research and Development
-<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
-| Company | Role | Location | Application/Link | Info | Date Posted |
-| --- | --- | --- | :---: | :---: | :---: |
-| **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
+| **[Chevron](https://www.chevron.com/)** | Internship - Information Security | Houston, TX, USA<br>San Ramon, CA, USA<br>Bakersfield, CA, USA<br>Covington, LA, USA<br>Midland, TX, USA<br>Ames, IA, USA<br>Geismar, LA, USA | [Apply Here](https://chevron.eightfold.ai/careers/job/16888581-2023-2024-information-technology-%E2%80%93-information-security-intern-houston-texas-united-states-of-america) | 🛂 🇺🇸 | Unknown |
+| **[Power Integrations](https://www.power.com/)** | Cybersecurity Intern | San Jose, CA, USA | [Apply here](https://www.linkedin.com/jobs/view/3643876237/) | ❓ | July 15, 2023 |
 
 ## Healthcare
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
+| **[Medline](https://www.medline.com/)** | Information Security Analyst Intern - Summer 2024 | Libertyville, IL, USA | [Apply here](https://medline.taleo.net/careersection/md_external/jobdetail.ftl?job=INT0100I8) | 🗺️ | Unknown |
 
 ## Machinery / Tools / HVAC / Water
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
