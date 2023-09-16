@@ -74,6 +74,10 @@ Use this repo to share and keep track of cyber/information security internships!
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[John Deere]()** | Internship - Cyber Security | Des Moines, IA, USA<br>Moline, IL, USA | [Apply here](https://johndeere.eightfold.ai/careers/job?domain=johndeere.com&pid=137456549206) | 🛂 | Unknown |
+| **[Grainger](https://www.grainger.com/)** | GTG Intern - Cybersecurity | Chicago, IL, USA | [Apply here](https://jobs.grainger.com/Grainger/job/CHICAGO-GTG-Intern-Cybersecurity-IL-60603-4013/1063760500/) | 🗺 | September 13, 2023 |
+| **[CNH Industrial](https://www.cnhindustrial.com/)** | Connected Vehicle and Product Security Intern | Oak Brook, IL, USA | [Apply here](https://careers-cnhind.icims.com/jobs/25074/connected-vehicle-and-product-security-intern/job?mobile=false&width=650&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | ❓ | Unknown |
+| **[Carrier](https://www.carrier.com/carrier/en/worldwide/)** | Product Cybersecurity Intern | Pal Beach Gardens, FL, USA | [Apply here](https://jobs.carrier.com/job/palm-beach-gardens/product-cybersecurity-intern/29289/53796115072) | 🇺🇸 | Unknown |
+| **[Pentair](https://www.pentair.com/)** | IT and Cybersecurity Leadership Development Program Internship - Summer 2024 | Golden Valley, MN, USA | [Apply here](https://pentair.wd5.myworkdayjobs.com/Pentair_Careers/job/Golden-Valley-MN/IT-and-Cybersecurity-Leadership-Development-Program-Internship---Summer-2024_R17397?source=LinkedIn&source=shared_id) | 🛂 | September 12, 2023 |
 
 ## Retailer / Consumer Goods
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
