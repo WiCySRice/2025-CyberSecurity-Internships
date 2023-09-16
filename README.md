@@ -80,14 +80,19 @@ Use this repo to share and keep track of cyber/information security internships!
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[H-E-B](https://www.heb.com/)** | Internship - Information Security | San Antonio, TX, USA</br>Austin, TX, USA | [Apply here](https://interns-heb.icims.com/jobs/92780/internship---information-security/job) | ❓ | Sep 1, 23 |
+| **[Home Depot](https://www.homedepot.com/)** | Cybersecurity Summer Intern | Atlanta, GA, USA | [Apply here](https://careers.homedepot.com/job/19064813/cybersecurity-internship-remote-atlanta-ga/) | ❓ | Unknown |
+| **[Walmart](https://walmart.com/)** | 2024 Summer Intern: Cybersecurity | Bentonville, AR, USA </br>Reston, VA, USA </br>Atlanta, GA, USA | [Apply here](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Cybersecurity_R-1593081) | ❓ | Unknown |
+| **[Kroger](https://kroger.com/)** | Summer 2024 Information Systems Audit Intern | Cincinnati, OH, USA | [Apply here](https://kroger.eightfold.ai/careers/job?domain=kroger.com&pid=17594826&location=United%20States&location_distance_km=100&recommended=1&job_index=0) | ❓ | Unknown |
+| **[Mattress Firm](https://www.mattressfirm.com/)** | Cyber Security Intern | Houston, TX, USA | [Apply here](https://mattressfirm.wd1.myworkdayjobs.com/CorporateCareers/job/Houston-Texas/Cyber-Security-Intern_JR-P0048477?source=LinkedIn) | 🗺️ | August 30, 2023 |
+| **[Procter & Gamble (P&G)](https://us.pg.com/)** | IT Engineer (Cybersecurity) | Cincinnati, OH, USA | [Apply here](https://www.pgcareers.com/global/en/job/R000086643/IT-Engineer-Internship) | 🛂 | Unknown |
 
 ## Transportation / Shipping
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Norfolk Southern](http://www.nscorp.com/content/nscorp/en.html)** |  Information Security Spring/Summer Intern 2024 | Atlanta, GA | [Apply here](https://jobs.nscorp.com/job/Atlanta-Information-Security-SpringSummer-Intern-2024-GA-30308/1072916200/) | 🛂 | Steptember 6, 2023 |
-| **[UPS](https://www.ups.com/)** | Role | Louisville, KY </br>Mahwah, NJ </br>Parsippany, NJ | [Apply here](https://www.jobs-ups.com/job/-/-/1187/53716054000) | 🇺🇸 | Unknown |
-| **[Ford](https://www.ford.com/)** | 2024 Cyber Security Internship | Dearborn, MI </br> Hybrid | [Apply here](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17190) | 🛂 | September 1, 2023 |
+| **[Norfolk Southern](http://www.nscorp.com/content/nscorp/en.html)** |  Information Security Spring/Summer Intern 2024 | Atlanta, GA, USA | [Apply here](https://jobs.nscorp.com/job/Atlanta-Information-Security-SpringSummer-Intern-2024-GA-30308/1072916200/) | 🛂 | Steptember 6, 2023 |
+| **[UPS](https://www.ups.com/)** | Role | Louisville, KY, USA </br>Mahwah, NJ, USA </br>Parsippany, NJ, USA | [Apply here](https://www.jobs-ups.com/job/-/-/1187/53716054000) | 🇺🇸 | Unknown |
+| **[Ford](https://www.ford.com/)** | 2024 Cyber Security Internship | Dearborn, MI, USA </br> Hybrid | [Apply here](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17190) | 🛂 | September 1, 2023 |
 | **[Southwest](https://www.southwest.com/)** | Cybersecurity Analyst Spring 2024 Intern | Remote | [Apply here](https://careers.southwestair.com/job/R-2023-34187/Cybersecurity-Analyst-Spring-2024-Intern-Remote) | 🛂 | September 1, 2023 |
 
 
@@ -95,17 +100,17 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Brooks Running](https://www.brooksrunning.com/en_us)** | Information Security Undergraduate Internship | Seattle, WA | [Apply here](https://jobs.lever.co/brooksrunning/08339175-a051-48cf-98c2-7935095ce076) | ❓ | Unknown |
-| **[Major League Baseball](https://www.mlb.com/)** | Information Security Internship | New York, NY | [Apply here](https://www.mlb.com/careers/opportunities?gh_jid=3814742) | 🛂 ❓ | Unknown |
-| **[Dick’s Sporting Goods](https://www.dickssportinggoods.com/)** | Summer 2024 Cybersecurity Internship | Pittsburgh, PA | [Apply here](https://www.dickssportinggoods.jobs/jobs/19046067/summer-2024-cybersecurity-internship-coraopolis-pa/?src=11663) | 🛂 ❓ | Unknown |
+| **[Brooks Running](https://www.brooksrunning.com/en_us)** | Information Security Undergraduate Internship | Seattle, WA, USA | [Apply here](https://jobs.lever.co/brooksrunning/08339175-a051-48cf-98c2-7935095ce076) | ❓ | Unknown |
+| **[Major League Baseball](https://www.mlb.com/)** | Information Security Internship | New York, NY, USA | [Apply here](https://www.mlb.com/careers/opportunities?gh_jid=3814742) | 🛂 ❓ | Unknown |
+| **[Dick’s Sporting Goods](https://www.dickssportinggoods.com/)** | Summer 2024 Cybersecurity Internship | Pittsburgh, PA, USA | [Apply here](https://www.dickssportinggoods.jobs/jobs/19046067/summer-2024-cybersecurity-internship-coraopolis-pa/?src=11663) | 🛂 ❓ | Unknown |
 
 ## Miscellaneous
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Este Lauder](https://www.esteelauder.com/products/1799/product-catalog/bestsellers)** | Summer 2024 Intern, Enterprise Cyber Security and Risk | United States (Multiple) | [Apply here](https://jobs.elcompanies.com/estee-lauder-companies/jobs/2313359?lang=en-us) | 🗺️ ❓ | Unknown |
-| **[Jack's Links](https://www.jacklinks.com/)** | IT Security Intern | Minneapolis, MN | [Apply here](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/743999929739521-it-security-intern?trid=84611281-e75b-46d6-94d7-5e3fd3c1de5e) | 🗺️ ❓ | Unknown |
-| **[Cargill](https://www.cargill.com/)** | Risk Management and Sourcing IT Co-op Summer 2024 | Wayzata, Minnesota </br>Minneapolis-St. Paul-Bloomington, Minnesota | [Apply here](https://careers.cargill.com/en/job/-/-/23251/52551793472?ss=paid&dclid=CMiB_JutqYEDFcPP9gIdixgIrA) | ❓ | August 4, 2023 |
-| **[Hallmark Cards](https://www.hallmark.com/)** | 2024 Summer Internship - Information Technology (Information Security Rotation) | Kansas City, MO | [Apply here](https://recruiting2.ultipro.com/HAL1009HLLI/JobBoard/ab752bd2-ff61-4489-a86c-18d808fa6f00/OpportunityDetail?opportunityId=ee10c5ce-ecae-4af8-b21f-4ce93854239e) | 🛂 ❓ | August 30, 2023 |
-| **[D.R. Horton](https://www.drhorton.com/)** | Summer 2024 IT Intern - Cyber Security | Arlington, TX | [Apply here](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2304322&lang=en) | ❓ | September 6, 2023 |
+| **[Jack's Links](https://www.jacklinks.com/)** | IT Security Intern | Minneapolis, MN, USA | [Apply here](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/743999929739521-it-security-intern?trid=84611281-e75b-46d6-94d7-5e3fd3c1de5e) | 🗺️ ❓ | Unknown |
+| **[Cargill](https://www.cargill.com/)** | Risk Management and Sourcing IT Co-op Summer 2024 | Wayzata, MN, USA </br>Minneapolis-St. Paul-Bloomington, MN, USA | [Apply here](https://careers.cargill.com/en/job/-/-/23251/52551793472?ss=paid&dclid=CMiB_JutqYEDFcPP9gIdixgIrA) | ❓ | August 4, 2023 |
+| **[Hallmark Cards](https://www.hallmark.com/)** | 2024 Summer Internship - Information Technology (Information Security Rotation) | Kansas City, MO, USA | [Apply here](https://recruiting2.ultipro.com/HAL1009HLLI/JobBoard/ab752bd2-ff61-4489-a86c-18d808fa6f00/OpportunityDetail?opportunityId=ee10c5ce-ecae-4af8-b21f-4ce93854239e) | 🛂 ❓ | August 30, 2023 |
+| **[D.R. Horton](https://www.drhorton.com/)** | Summer 2024 IT Intern - Cyber Security | Arlington, TX, USA | [Apply here](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2304322&lang=en) | ❓ | September 6, 2023 |
 | **[Shaw Industries Group, Inc](https://shawinc.com/)** | Summer 2024 Information Technology Co-Op | Remote | [Apply here](https://shawinc.wd1.myworkdayjobs.com/External/job/Summer-2024-Information-Technology-Co-Op--remote-_R-115925) | ❓ | Unknown |
