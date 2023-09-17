@@ -44,6 +44,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[USAA]()** | Internship - Cyber Security | Varies| [Apply Here](https://www.usaajobs.com/job/san-antonio/cyber-security-intern/1207/53982784752) | ❓ | Nov 5, 23 |
+| **[US Bank](https://www.usbank.com/)** | 2024 InfoSecurity Summer Intern | Cincinnati, OH, USA | [Apply here](https://careers.usbank.com/global/en/job/2023-0023441/2024-InfoSecurity-Summer-Intern) | ❓ | August 8, 2023 |
 
 ## Consulting 🤝
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
