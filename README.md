@@ -1,4 +1,4 @@
-# Summer 2024 Cyber Security Internships by WiCyS Rice
+# 2024 Cyber Security Internships by WiCyS Rice
 
 Use this repo to share and keep track of cyber/information security internships! 🔐
 
