@@ -37,7 +37,12 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
+| **[Honeywell](https://www.honeywell.com)** | Global Security Internship (Summer 2024) | Phoenix, AZ, USA </br>Minneapolis, MN, USA </br>Charlotte, NC, USA | [Apply here](https://careers.honeywell.com/us/en/job/req412553/Honeywell-Global-Security-Internship-Summer-2024) | 🇺🇸 | Unknown |
+| **[Huntington Ingalls Industries (HII) Mission Technology Division](https://hii.com/)** | Technology & Intelligence Internship | Honolulu, HI, USA | [Apply here](https://jobs.hii-tsd.com/job/Honolulu%2C-HI-Technology-&-Intelligence-Internship-Hawaii-Hawa/1062264500/?feedId=314400) | ❓ | September 8, 2023 |
+| **[Lockheed Martin](https://lockheedmartin.com/)** | Classified Cybersecurity Intern | Sunnyvale, CA, USA | [Apply here](https://www.lockheedmartinjobs.com/job/-/-/694/53402855664?codes=IB40158) | 🇺🇸 | August 30, 2023 |
+| **[Lockheed Martin](https://lockheedmartin.com/)** | Cyber Security - Intern | Marietta, GA, USA | [Apply here](https://www.lockheedmartinjobs.com/job/-/-/694/53752782656) | 🇺🇸 | August 31, 2023 |
+| **[Deloitte](https://www2.deloitte.com)** | Government & Public Services Risk & Financial Advisory Intern - Cyber - Summer 2024  | Arlington, VA, USA </br>Columbus, OH, USA </br>Honolulu, HI, USA </br>Huntsville, AL, USA </br>Tallahassee, FL, USA | [Apply here](https://apply.deloitte.com/careers/JobDetail/Deloitte-Government-Public-Services-Risk-Financial-Advisory-Intern-Cyber-Summer-2024/149022) | 🛂 | Unknown |
+| **[Deloitte](https://www2.deloitte.com)** | Risk & Financial Advisory Intern - Cyber (Summer 2024) | Variuos in USA | [Apply here](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Intern-Cyber-Summer-2024/158534) | 🛂 | Unknown |
 
 ## Banking / Insurance / Investments / Taxes 💰
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
