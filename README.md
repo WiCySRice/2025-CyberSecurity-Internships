@@ -28,6 +28,14 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Microsoft](https://www.microsoft.com/)** | Penetration Testing: Internship Opportunities | Redmond, WA, USA | [Apply here](https://jobs.careers.microsoft.com/us/en/job/1606228/Penetration-Testing:-Internship-Opportunities?jobsource=linkedin) | 🗺️ ❓ | September 6, 2023 |
 | **[Microsoft](https://www.microsoft.com/)** | Penetration Testing: Internship Opportunities | Redmond, WA, USA | [Apply here](https://jobs.careers.microsoft.com/us/en/job/1606228/Penetration-Testing:-Internship-Opportunities?jobsource=linkedin) | 🗺️ ❓ | September 6, 2023 |
 | **[Battelle](https://www.battelle.org/)** | Cyber Trust and Analytics Intern (Summer 2024) | Columbus, OH, USA | [Apply here](https://jobs.battelle.org/us/en/job/BMIBMIUS73727EXTERNALENUS/Cyber-Trust-and-Analytics-Intern-Summer-2024) | 🗺️ ❓ | Unknown |
+| **[Qualcomm](https://www.qualcomm.com/)** | Cybersecurity Internship – Summer 2024 | San Diego, CA, USA | [Apply here](https://careers.qualcomm.com/careers/job/446694581449?domain=qualcomm.com&source=APPLICANT_SOURCE-6-2&source=APPLICANT_SOURCE-6-2) | ❓ | September 11, 2023 |
+| **[Verizon](https://www.verizon.com/)** | Security Engineering Summer 2024 Internship | Basking Ridge, NJ, USA </br>Irving, TX, USA </br>Ashburn, VA, USA | [Apply here](https://mycareer.verizon.com/jobs/r-1014350/security-engineering-summer-2024-internship/?) | 🛂 ❓ | Unknown |
+| **[Paycom](https://www.paycom.com/)** | Application Security Intern | Oklahoma City, OK, USA | [Apply here](https://careercenter.anitab.org/job/application-security-intern/70502632/) | ❓ | August 21, 2023 |
+| **[National Information Solutions Cooperative (NISC)](https://www.nisc.coop/)** | Intern - Information Security (Cybersecurity) | Various in USA </br>Remote | [Apply here](https://boards.greenhouse.io/nisc/jobs/5364008?gh_src=e23daf491us) | ❓ | Unknown |
+| **[CGI](https://www.cgi.com/en)** | Cyber Security Intern (Summer Internship Program) | Fairfax, VA, USA | [Apply here](https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0823-1410&lang=1) | 🗺️ ❓ | Unknown |
+| **[Command Post Technolgies (CPT)](https://commandposttech.com/)** | SkillBridge Intern - Cybersecurity/IT) | Suffolk, VA, USA | [Apply here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1110857) | 🗺️ ❓ | Unknown |
+| **[UL Solutions](https://www.ul.com/)** | 2024 Summer Intern: Cyber Security/Software Engineering Intern | Northbrook, IL, USA </br>Chicago, IL, USA | [Apply here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1110857) | Likely 🇺🇸 ❓ | Unknown |
+| **[NETSYNC](https://www.netsync.com/)** | Cybersecurity Intern | San Antonio, TX, USA | [Apply here](https://netsync-network-solutions.breezy.hr/p/b4563ab7ae83) | ❓ | Unknown |
 
 ## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -96,6 +104,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[PwC](https://www.pwc.com/us/en.html)** | Cyber Security and Technology Intern - Summer 2025 - Women's Consulting Experience | Various in USA | [Apply here](https://jobs.us.pwc.com/job/birmingham/nis-cyber-security-and-technology-intern-summer-2024/932/52142558336) | 🛂 | Unknown |
 | **[Crowe](https://www.crowe.com/)** | Third Party Cybersecurity Intern Summer 2024 | Various in USA | [Apply here](https://crowe.recsolu.com/jobs/zgCsmnKQlvvWqKdlXsEn0w?job_board_id=WB2bjvZ0DnUiIiTm6amL_g) | ❓ | Unknown |
 | **[Crowe](https://www.crowe.com/)** | Digital Security Intern Summer 2024 | Various in USA | [Apply here](https://crowe.recsolu.com/jobs/zgCsmnKQlvvWqKdlXsEn0w?job_board_id=WB2bjvZ0DnUiIiTm6amL_g) | ❓ | Unknown |
+| **[Guidehouse](https://guidehouse.com/)** | Intern - Defense & Security - Campus 2024 | McLean, VA, USA </br>Arlington, VA, USA </br>Tampa, FL, USA </br>Huntsville, AL, USA | [Apply here](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Intern---Defense---Security---Campus-2024_12095?q=defense%20&%20security&redirect=/External/job/US---VA-McLean/Intern---Defense---Security--Technology-Consulting---Campus-2024_12290/apply?source=REC_LINKEDIN?utm_source=linkedin.com&ss=paid) | 🗺️ ❓ | August 20, 2023 |
 
 ## Energy 💡
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
