@@ -25,7 +25,10 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
+| **[Arctic Wolf](https://arcticwolf.com/)** | Triage Security Analyst - Intern | Eden Prairie, MN, USA </br>San Antonio, TX </br>Pleasant Grove, UT, USA | [Apply here (MN)](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Eden-Prairie-MN-USA/Triage-Security-Analyst---Intern_R23_486?q=intern&workerSubType=2d23b7bfb5bd1001e3e0a201acff0000&workerSubType=2d23b7bfb5bd1001e3e0a201acff0001) </br>[Apply here (TX)](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/San-Antonio-TX-USA/Triage-Security-Analyst---Intern_R23_484-1?q=intern&workerSubType=2d23b7bfb5bd1001e3e0a201acff0000&workerSubType=2d23b7bfb5bd1001e3e0a201acff0001) </br>[Apply here (UT)](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Pleasant-Grove-UT-USA/Triage-Security-Analyst---Intern_R23_485?q=intern&workerSubType=2d23b7bfb5bd1001e3e0a201acff0000&workerSubType=2d23b7bfb5bd1001e3e0a201acff0001) | ❓ | ~ August 1, 2023 |
+| **[MITRE](https://www.mitre.org/)** | Operations Intern (National Security) | San Diego, CA, USA | [Apply here](https://careers.mitre.org/us/en/job/R111706/Operations-Intern-Summer-2024-San-Diego-CA~-On-Site) | ❓ | August 30, 2023 |
+| **[MITRE](https://www.mitre.org/)** | Internships in Cyber or Information Security | Various in USA | [Apply here](https://careers.mitre.org/us/en/job/R111771/Internships-in-Cyber-or-Information-Security) | ❓ | September 11, 2023 |
+| **[CertiK](https://www.certik.com/)** | Security Research Internship | New York, NY, USA </br>Seattle, WA, USA </br>San Francisco Bay Area, CA, USA </br>Remote | [Apply here](https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33) | 🗺️ | Unknown |
 
 ## U.S. Government 🦅
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
