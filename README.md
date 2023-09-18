@@ -36,6 +36,11 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Command Post Technolgies (CPT)](https://commandposttech.com/)** | SkillBridge Intern - Cybersecurity/IT) | Suffolk, VA, USA | [Apply here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1110857) | 🗺️ ❓ | Unknown |
 | **[UL Solutions](https://www.ul.com/)** | 2024 Summer Intern: Cyber Security/Software Engineering Intern | Northbrook, IL, USA </br>Chicago, IL, USA | [Apply here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1110857) | Likely 🇺🇸 ❓ | Unknown |
 | **[NETSYNC](https://www.netsync.com/)** | Cybersecurity Intern | San Antonio, TX, USA | [Apply here](https://netsync-network-solutions.breezy.hr/p/b4563ab7ae83) | ❓ | Unknown |
+| **[Comcast](https://jobs.comcast.com/about-us)** | Tech Intern - Comcast Business Cybersecurity (TPX) | Philadelphia, PA, USA | [Apply here](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R370085&source=linkedin_spons_jobs-at) | 🛂 ❓ | August 30, 2023 |
+| **[Comcast](https://jobs.comcast.com/about-us)** | Enterprise Cybersecurity Internship (Rising Junior) | Philadelphia, PA, USA | [Apply here](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R371411&source=linkedin_spons_jobs-at) | 🛂 ❓ | September 6, 2023 |
+| **[Comcast](https://jobs.comcast.com/about-us)** | Enterprise Cybersecurity Internship (Rising Senior) | Philadelphia, PA, USA | [Apply here](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R371409&source=linkedin_spons_jobs-at) | 🛂 ❓ | September 6, 2023 |
+| **[Benchling](https://www.benchling.com/)** | Security Engineer Intern (Summer 2024) | San Francisco, CA, USA | [Apply here](https://boards.greenhouse.io/benchling/jobs/5325508?) | ❓ | Unknown |
+| **[Palantir](https://www.palantir.com/)** | Information Security Engineer, Internship | New York, NY, USA </br>Hybrid | [Apply here](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb/apply?) | ❓ | Unknown |
 
 ## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
