@@ -19,7 +19,15 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Company Name]()** | Role | Location 1 </br>Location 2 | [Apply here]() | Info | Date Posted |
+| **[Texas Instruments](https://www.ti.com/)** | Information Technology Intern – Security | Unknown | [Apply here](https://careers.ti.com/job/19004944/information-technology-intern-security-dallas-tx/) | 🛂 | Unknown |
+| **[Textron](https://www.textron.com/)** | 2024 Cyber Analyst Internship | Fort Worth, TX, USA | [Apply here](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=315045) | ❓ | August 31, 2023 |
+| **[Textron](https://www.textron.com/)** | 2024 Internship - Information Systems - Security Analyst | Whichita, KS, USA | [Apply here](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=317260) | ❓ | August 31, 2023 |
+| **[Technoxi](https://www.technoxi.com/)** | Security Engineer Intern | Remote | [Apply here](https://www.technoxi.com/jobs/security-engineer-intern) | ❓ | Unknown |
+| **[KAYAK](https://www.kayak.com/)** | Security Ops Intern | Concord, NH, USA | [Apply here](https://boards.greenhouse.io/kayak/jobs/6890125002) | ❓ | Unknown |
+| **[Microsoft](https://www.microsoft.com/)** | Security Analyst: Internship Opportunities | Redmond, WA, USA | [Apply here](https://jobs.careers.microsoft.com/us/en/job/1606227/Security-Analyst:-Internship-Opportunities?jobsource=linkedin) | ❓ | September 6, 2023 |
+| **[Microsoft](https://www.microsoft.com/)** | Penetration Testing: Internship Opportunities | Redmond, WA, USA | [Apply here](https://jobs.careers.microsoft.com/us/en/job/1606228/Penetration-Testing:-Internship-Opportunities?jobsource=linkedin) | 🗺️ ❓ | September 6, 2023 |
+| **[Microsoft](https://www.microsoft.com/)** | Penetration Testing: Internship Opportunities | Redmond, WA, USA | [Apply here](https://jobs.careers.microsoft.com/us/en/job/1606228/Penetration-Testing:-Internship-Opportunities?jobsource=linkedin) | 🗺️ ❓ | September 6, 2023 |
+| **[Battelle](https://www.battelle.org/)** | Cyber Trust and Analytics Intern (Summer 2024) | Columbus, OH, USA | [Apply here](https://jobs.battelle.org/us/en/job/BMIBMIUS73727EXTERNALENUS/Cyber-Trust-and-Analytics-Intern-Summer-2024) | 🗺️ ❓ | Unknown |
 
 ## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
