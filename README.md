@@ -100,6 +100,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Bank of America](https://www.bankofamerica.com/)** | Global Technology Summer Analyst Program (Cybersecurity Analyst) | Charlotte, NC, USA </br>Chicago, IL, USA </br>Dallas Metro, TX, USA </br>NY Metro, NY, USA </br>Pennington, NJ, USA </br> Richmond, VA, USA | [Apply here](https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2024.html) | ❓ | Unknown |
 | **[Experian](https://www.experian.com/)** | Information Security Engineering Intern | Remote | [Apply here](https://www.wayup.com/i-j-Information-Security-Engineering-Intern-Experian-853690272259826/) | ❓ | Unknown |
 | **[Experian](https://www.experian.com/)** | Information Security Partner Intern | Remote | [Apply here](https://www.wayup.com/i-j-Information-Security-Partner-Intern-Experian-884590339705646/) | ❓ | Unknown |
+| **[Geico](https://www.geico.com/)** | Cybersecurity Intern | All Hybrid </br>Chevy Chase, MD, USA </br>Macon, GA, USA </br>Fredericksburg, VA, USA | [Apply here](https://geico.wd1.myworkdayjobs.com/en-US/External/details/Cybersecurity-Intern---HYBRID_R0046381?q=internship) | 🛂 | September 15, 2023 |
 
 ## Consulting 🤝
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
