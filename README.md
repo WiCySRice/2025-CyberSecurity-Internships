@@ -41,6 +41,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Comcast](https://jobs.comcast.com/about-us)** | Enterprise Cybersecurity Internship (Rising Senior) | Philadelphia, PA, USA | [Apply here](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R371409&source=linkedin_spons_jobs-at) | 🛂 ❓ | September 6, 2023 |
 | **[Benchling](https://www.benchling.com/)** | Security Engineer Intern (Summer 2024) | San Francisco, CA, USA | [Apply here](https://boards.greenhouse.io/benchling/jobs/5325508?) | ❓ | Unknown |
 | **[Palantir](https://www.palantir.com/)** | Information Security Engineer, Internship | New York, NY, USA </br>Hybrid | [Apply here](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb/apply?) | ❓ | Unknown |
+| **[Cvent](https://www.cvent.com/)** | Security Risk and Compliance Intern | Tysons Corner, VA, USA </br>Dallas, TX, USA | [Apply here](https://careers.cvent.com/jobs/4396?lang=en-us) | ❓ | Unknown |
 
 ## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -50,6 +51,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[MITRE](https://www.mitre.org/)** | Operations Intern (National Security) | San Diego, CA, USA | [Apply here](https://careers.mitre.org/us/en/job/R111706/Operations-Intern-Summer-2024-San-Diego-CA~-On-Site) | ❓ | August 30, 2023 |
 | **[MITRE](https://www.mitre.org/)** | Internships in Cyber or Information Security | Various in USA | [Apply here](https://careers.mitre.org/us/en/job/R111771/Internships-in-Cyber-or-Information-Security) | ❓ | September 11, 2023 |
 | **[CertiK](https://www.certik.com/)** | Security Research Internship | New York, NY, USA </br>Seattle, WA, USA </br>San Francisco Bay Area, CA, USA </br>Remote | [Apply here](https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33) | 🗺️ | Unknown |
+| **[Idemia](https://www.idemia.com/)** | Cybersecurity Internship - Summer 2024 | Reston, VA, USA </br>Hybrid | [Apply here](https://uscareers-idemia.icims.com/jobs/6574/cybersecurity-internship---summer-2024/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=720&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | ❓ | October 1, 2023 |
 
 ## U.S. Government 🦅
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -101,6 +103,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Experian](https://www.experian.com/)** | Information Security Engineering Intern | Remote | [Apply here](https://www.wayup.com/i-j-Information-Security-Engineering-Intern-Experian-853690272259826/) | ❓ | Unknown |
 | **[Experian](https://www.experian.com/)** | Information Security Partner Intern | Remote | [Apply here](https://www.wayup.com/i-j-Information-Security-Partner-Intern-Experian-884590339705646/) | ❓ | Unknown |
 | **[Geico](https://www.geico.com/)** | Cybersecurity Intern | All Hybrid </br>Chevy Chase, MD, USA </br>Macon, GA, USA </br>Fredericksburg, VA, USA | [Apply here](https://geico.wd1.myworkdayjobs.com/en-US/External/details/Cybersecurity-Intern---HYBRID_R0046381?q=internship) | 🛂 | September 15, 2023 |
+| **[Barclays](https://home.barclays.com/)** | Technology Cyber & Security Analyst Summer Internship Programme 2024 | Glasgow, Scotland | [Apply here](https://search.jobs.barclays/job/glasgow/technology-cyber-and-security-analyst-summer-internship-programme-2024-glasgow/13015/53950934896) | 🗺 | September 4, 2023 |
 
 ## Consulting 🤝
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -174,3 +177,4 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Hallmark Cards](https://www.hallmark.com/)** | 2024 Summer Internship - Information Technology (Information Security Rotation) | Kansas City, MO, USA | [Apply here](https://recruiting2.ultipro.com/HAL1009HLLI/JobBoard/ab752bd2-ff61-4489-a86c-18d808fa6f00/OpportunityDetail?opportunityId=ee10c5ce-ecae-4af8-b21f-4ce93854239e) | 🛂 ❓ | August 30, 2023 |
 | **[D.R. Horton](https://www.drhorton.com/)** | Summer 2024 IT Intern - Cyber Security | Arlington, TX, USA | [Apply here](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2304322&lang=en) | ❓ | September 6, 2023 |
 | **[Shaw Industries Group, Inc](https://shawinc.com/)** | Summer 2024 Information Technology Co-Op | Remote | [Apply here](https://shawinc.wd1.myworkdayjobs.com/External/job/Summer-2024-Information-Technology-Co-Op--remote-_R-115925) | ❓ | Unknown |
+| **[lyondellbasell](https://lyondellbasell.com/)** | Cyber Security Intern | Houston, TX, USA | [Apply here](https://careers.lyondellbasell.com/job/Houston-Cyber-Security-Intern-TX-77010/1080674100/) | 🗺️ ❓ | Unknown |
