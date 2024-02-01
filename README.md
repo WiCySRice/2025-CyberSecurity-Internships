@@ -22,6 +22,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Technoxi](https://www.technoxi.com/)** | Security Engineer Intern | Remote | [Apply here](https://www.technoxi.com/jobs/security-engineer-intern) | ❓ | Unknown |
 | **[Qualcomm](https://www.qualcomm.com/)** | Cybersecurity Internship – Summer 2024 | San Diego, CA, USA | [Apply here](https://careers.qualcomm.com/careers/job/446694581449?domain=qualcomm.com&source=APPLICANT_SOURCE-6-2&source=APPLICANT_SOURCE-6-2) | ❓ | September 11, 2023 |
 | **[Command Post Technolgies (CPT)](https://commandposttech.com/)** | SkillBridge Intern - Cybersecurity/IT) | Suffolk, VA, USA | [Apply here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1110857) | 🗺️ ❓ | Unknown |
+| **[Atos](https://atos.net/en/)** | Cyber security Intern | Richmond, VA, USA | [Apply here](https://www.linkedin.com/jobs/view/3805638267/?alternateChannel=search&refId=XnTiXmKPDH%2BiXGt41kXmKQ%3D%3D&trackingId=q7LhipHFAX7aW%2BF%2FI%2FWkvA%3D%3D) | ❓ | January 17, 2024 |
 
 ## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -30,6 +31,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Arctic Wolf](https://arcticwolf.com/)** | Triage Security Analyst - Intern | Eden Prairie, MN, USA </br>San Antonio, TX </br>Pleasant Grove, UT, USA | [Apply here (MN)](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Eden-Prairie-MN-USA/Triage-Security-Analyst---Intern_R23_486?q=intern&workerSubType=2d23b7bfb5bd1001e3e0a201acff0000&workerSubType=2d23b7bfb5bd1001e3e0a201acff0001) </br>[Apply here (TX)](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/San-Antonio-TX-USA/Triage-Security-Analyst---Intern_R23_484-1?q=intern&workerSubType=2d23b7bfb5bd1001e3e0a201acff0000&workerSubType=2d23b7bfb5bd1001e3e0a201acff0001) </br>[Apply here (UT)](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Pleasant-Grove-UT-USA/Triage-Security-Analyst---Intern_R23_485?q=intern&workerSubType=2d23b7bfb5bd1001e3e0a201acff0000&workerSubType=2d23b7bfb5bd1001e3e0a201acff0001) | ❓ | ~ August 1, 2023 |
 | **[CertiK](https://www.certik.com/)** | Security Research Internship | New York, NY, USA </br>Seattle, WA, USA </br>San Francisco Bay Area, CA, USA </br>Remote | [Apply here](https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33) | 🗺️ | Unknown |
 | **[Idemia](https://www.idemia.com/)** | Cybersecurity Internship - Summer 2024 | Reston, VA, USA </br>Hybrid | [Apply here](https://uscareers-idemia.icims.com/jobs/6574/cybersecurity-internship---summer-2024/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=720&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | ❓ | October 1, 2023 |
+| **[MAVERC Technologies](https://www.maverc.com/)** | Cyber Security Intern | Miami, Florida, USA | [Apply here](https://maverc.freshteam.com/jobs/9Y7Pkl6Lk8Tb/cyber-security-intern?ft_source=6000247982&ft_medium=6000181733) | ❓ | Unknown |
 
 ## U.S. Government 🦅
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -49,6 +51,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Grant Thornton](https://www.grantthornton.com/)** | Cybersecurity and Privacy Intern | San Francisco, CA, USA | [Apply here](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/109636?src=SNS-10068) | 🗺️ ❓ | Unknown |
 | **[Liberty Mutual Insurance](https://www.libertymutual.com/)** | Cybersecurity & Technology Audit Internship | Boston, MA, USA </br>Seattle, WA, USA | [Apply here](https://app.eightfold.ai/careers/job/618492773806?domain=libertymutual.com&microsite=libertymutual.com&mode=job&amp;iis=Job+Board&amp;iisn=LinkedIn+Jobs&amp;extcmp=bof-paid-text-lkin-aljb) | ❓ | Unknown |
+| **[NFP](https://www.nfp.com/)** | Cyber Security Intern | Austin, TX, USA | [Apply here](https://careers.nfp.com/job/19799173/cyber-security-intern-austin-tx/?source=Linkedin%20Job%20Posting) | ❓ | Unknown |
 
 ## Consulting 🤝
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -65,16 +68,24 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[CHG Healthcare](https://chghealthcare.com/)** | IT Security Intern, Summer 2024 | Salt Lake City, UT, USA </br>Remote | [Apply here](https://chghealthcare.wd1.myworkdayjobs.com/External/job/Salt-Lake-City-UT/IT-Security-Intern_JR101733) | ❓ | January 9, 2024 |
+| **[Daiichi Sankyo](https://www.daiichisankyo.com/)** | IT Cyber Security Intern | Basking Ridge, NJ | [Apply here](https://daiichisankyo.wd1.myworkdayjobs.com/en-US/DSI/job/Basking-Ridge-NJ/IT-Cyber-Security-Intern_R2691?source=LinkedIn) | 🗺 | Late 2023 |
 
 ## Machinery / Tools / HVAC / Water 🛠️ 🚰
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[Rockwell Automation](https://www.rockwellautomation.com)** | Intern, Cyber Security | Milwaukee, WI, USA </br>Chelmsford, MA, USA | [Apply here](https://jobs.rockwellautomation.com/job/19681249/intern-cyber-security-milwaukee-wi/?Codes=ILINK) | 🛂 🇺🇸 | January 8, 2024 |
+| **[John Deere](https://www.deere.com/)** | IT - Cyber Security Summer Intern 2024b | Des Moines, IA, USA </br>Moline, IL, USA | [Apply here](https://careers.deere.com/careers/job/137458615947?utm_source=LinkedIn&domain=johndeere.com) | 🛂 | Unknown |
+
 
 ## Retailer / Consumer Goods 🏬
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | Cybersecurity Summer Undergraduate Intern | Atlanta, GA, USA | [Apply here](https://careers.coca-colacompany.com/job/19726504/cybersecurity-summer-undergraduate-intern-atlanta-ga/) | 🗺 | January 16, 2024 |
+| **[Belk](https://www.belk.com/)** | 2024 Belk Internship Program – IT Security | Charlotte, NC, USA | [Apply here](https://belk.wd1.myworkdayjobs.com/Careers-Corporate/job/Charlotte-NC---Corporate-Office/XMLNAME-2024-Belk-Internship-Program---IT-Security_JR-73489-1) | 🛂 | January 16, 2024 |
+
 
 ## Transportation / Shipping ✈️ 🚅 🚗 🚚
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
