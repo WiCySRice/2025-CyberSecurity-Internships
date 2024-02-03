@@ -24,6 +24,8 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Command Post Technolgies (CPT)](https://commandposttech.com/)** | SkillBridge Intern - Cybersecurity/IT) | Suffolk, VA, USA | [Apply here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1110857) | 🗺️ ❓ | Unknown |
 | **[Atos](https://atos.net/en/)** | Cyber security Intern | Richmond, VA, USA | [Apply here](https://www.linkedin.com/jobs/view/3805638267/?alternateChannel=search&refId=XnTiXmKPDH%2BiXGt41kXmKQ%3D%3D&trackingId=q7LhipHFAX7aW%2BF%2FI%2FWkvA%3D%3D) | ❓ | January 17, 2024 |
 | **[ENSCO](https://atos.net/en/)** | Cyber security Intern | Richmond, VA, USA | [Apply here](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?PageType=JobDetails&partnerid=25451&siteid=5592&Codes=LNKDIN#jobDetails=3509887_5592) | 🇺🇸 | Unknown |
+| **[Click Therapeutics](https://www.clicktherapeutics.com/)** | Cybersecurity Intern | New York, NY, USA | [Apply here](https://boards.greenhouse.io/clicktherapeutics/jobs/6650933002) | 🗺 | Unknown |
+| **[Adobe](https://www.adobe.com/)** | 2024 Cyber Security Intern - CCF Automation | Remote in CA, USA </br>San Jose, CA, USA | [Apply here](https://careers.adobe.com/us/en/job/ADOBUSR141496EXTERNALENUS/2024-Cyber-Security-Intern-CCF-Automation?utm_medium=phenom-feeds&source=LinkedIn&utm_source=linkedin) | ❓ | January 10, 2024 |
 
 ## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -34,6 +36,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Idemia](https://www.idemia.com/)** | Cybersecurity Internship - Summer 2024 | Reston, VA, USA </br>Hybrid | [Apply here](https://uscareers-idemia.icims.com/jobs/6574/cybersecurity-internship---summer-2024/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=720&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | ❓ | October 1, 2023 |
 | **[MAVERC Technologies](https://www.maverc.com/)** | Cyber Security Intern | Miami, Florida, USA | [Apply here](https://maverc.freshteam.com/jobs/9Y7Pkl6Lk8Tb/cyber-security-intern?ft_source=6000247982&ft_medium=6000181733) | ❓ | Unknown |
 | **[STR](https://str.us/)** | Enterprise Cybersecurity Summer Intern | Woburn, MA, USA | [Apply here](https://boards.greenhouse.io/systemstechnologyresearch/jobs/4326288006?gh_src=150e690c6us) | ❓ | Unknown |
+| **[MITRE](https://www.mitre.org/)** | Internships in Cyber or Information Security | Various Locations in USA | [Apply here](https://careers.mitre.org/us/en/job/MITRUSR112398EXTERNALENUS/Internships-in-Cyber-or-Information-Security?utm_source=linkedin&src=JB-10062&utm_medium=phenom-feeds) | 🇺🇸 | January 8, 2024 |
 
 ## U.S. Government 🦅
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -57,6 +60,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[NFP](https://www.nfp.com/)** | Cyber Security Intern | Austin, TX, USA | [Apply here](https://careers.nfp.com/job/19799173/cyber-security-intern-austin-tx/?source=Linkedin%20Job%20Posting) | ❓ | Unknown |
 | **[Calamos Investments](https://www.calamos.com/)** | Information Security Intern | Naperville, IL, USA | [Apply here](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=4391dadd-b17c-44ac-a8be-bc6e3f386eee&utm_source=LINKEDIN) | ❓ | Unknown |
 | **[Ascensus](https://www.ascensus.com/)** | Information Security Intern | Dresher, PA, USA | [Apply here](https://careers.ascensus.com/jobs/information-security-intern-dresher-pennsylvania-united-states-0835a077-5622-4cf0-93cc-1feebc5de433?source=linkedin_posting&utm_source=linkedin_posting) | ❓ | October 9, 2023 |
+| **[Q2](https://www.q2.com/)** | Cybersecurity - Intern | Austin, TX, USA | [Apply here](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Cybersecurity---Intern_REQ-9866) | ❓ | January 24, 2024 |
 
 ## Consulting 🤝
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -76,6 +80,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[CHG Healthcare](https://chghealthcare.com/)** | IT Security Intern, Summer 2024 | Salt Lake City, UT, USA </br>Remote | [Apply here](https://chghealthcare.wd1.myworkdayjobs.com/External/job/Salt-Lake-City-UT/IT-Security-Intern_JR101733) | ❓ | January 9, 2024 |
 | **[Daiichi Sankyo](https://www.daiichisankyo.com/)** | IT Cyber Security Intern | Basking Ridge, NJ, USA | [Apply here](https://daiichisankyo.wd1.myworkdayjobs.com/en-US/DSI/job/Basking-Ridge-NJ/IT-Cyber-Security-Intern_R2691?source=LinkedIn) | 🗺 | Late 2023 |
 | **[Medpace](https://www.medpace.com/)** | Information Security Intern- Summer 2024 | Cincinnati, OH, USA | [Apply here](https://careers.medpace.com/jobs/9385?mode=apply&iis=LinkedIn&lang=en-us) | ❓ | Unknown |
+| **[Health Care Service Corporation](https://www.hcsc.com/)** | University Relations – Cybersecurity IAM Associate Intern | Chicago, IL, USA </br>Richardson, TX, USA | [Apply here](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/University-Relations---Cybersecurity-IAM-Associate-Intern_R0022051?eresc=LinkedIn) | 🛂 | January 22, 2024 |
 
 ## Machinery / Tools / HVAC / Water 🛠️ 🚰
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -84,7 +89,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Rockwell Automation](https://www.rockwellautomation.com)** | Intern, Cyber Security | Milwaukee, WI, USA </br>Chelmsford, MA, USA | [Apply here](https://jobs.rockwellautomation.com/job/19681249/intern-cyber-security-milwaukee-wi/?Codes=ILINK) | 🛂 🇺🇸 | January 8, 2024 |
 | **[John Deere](https://www.deere.com/)** | IT - Cyber Security Summer Intern 2024b | Des Moines, IA, USA </br>Moline, IL, USA | [Apply here](https://careers.deere.com/careers/job/137458615947?utm_source=LinkedIn&domain=johndeere.com) | 🛂 | Unknown |
 | **[Whirlpool](https://www.whirlpool.com/)** | Global IT Cybersecurity Immersion Intern - May 2024 Start Date | Benton Harbor, Michigan, USA | [Apply here](https://jobs.whirlpool.com/careers/job/34377463996-global-it-cybersecurity-immersion-intern-may-2024-start-date-benton-harbor-michigan-usa?domain=whirlpool.com) | 🛂 | Unknown |
-
+| **[Hillenbrand](https://hillenbrand.com/)** | Cyber Security Intern | Columbus, OH, USA | [Apply here](https://hillenbrand.wd3.myworkdayjobs.com/Global/job/Columbus-OH-USA/Cyber-Security-Intern_R-1518?source=Linkedin) | ❓ | January 26, 2024 |
 
 ## Retailer / Consumer Goods 🏬
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
