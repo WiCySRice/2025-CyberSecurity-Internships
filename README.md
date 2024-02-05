@@ -26,6 +26,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[ENSCO](https://atos.net/en/)** | Cyber security Intern | Richmond, VA, USA | [Apply here](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?PageType=JobDetails&partnerid=25451&siteid=5592&Codes=LNKDIN#jobDetails=3509887_5592) | 🇺🇸 | Unknown |
 | **[Click Therapeutics](https://www.clicktherapeutics.com/)** | Cybersecurity Intern | New York, NY, USA | [Apply here](https://boards.greenhouse.io/clicktherapeutics/jobs/6650933002) | 🗺 | Unknown |
 | **[Adobe](https://www.adobe.com/)** | 2024 Cyber Security Intern - CCF Automation | Remote in CA, USA </br>San Jose, CA, USA | [Apply here](https://careers.adobe.com/us/en/job/ADOBUSR141496EXTERNALENUS/2024-Cyber-Security-Intern-CCF-Automation?utm_medium=phenom-feeds&source=LinkedIn&utm_source=linkedin) | ❓ | January 10, 2024 |
+| **[Visteon Corporation](https://www.visteon.com/)** | Product Cybersecurity Intern | Van Buren Charter Township, MI, USA | [Apply here](https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256/OpportunityDetail?opportunityId=2854172e-7972-4297-b83d-019a81f6ac27) | ❓ | January 2, 2024 |
 
 ## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -67,6 +68,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Guidehouse](https://guidehouse.com/)** | Intern - Defense & Security - Campus 2024 | McLean, VA, USA </br>Arlington, VA, USA </br>Tampa, FL, USA </br>Huntsville, AL, USA | [Apply here](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Intern---Defense---Security---Campus-2024_12095?q=defense%20&%20security&redirect=/External/job/US---VA-McLean/Intern---Defense---Security--Technology-Consulting---Campus-2024_12290/apply?source=REC_LINKEDIN?utm_source=linkedin.com&ss=paid) | 🗺️ ❓ | August 20, 2023 |
+| **[POWER Engineers](https://www.powereng.com/)** |Infrastructure Cyber Security Intern | Boise, ID, USA | [Apply here](https://phh.tbe.taleo.net/phh04/ats/careers/requisition.jsp?org=POWERENGINEERS&cws=1&rid=15539) | 🛂 | Unknown |
 
 ## Energy 💡
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -90,6 +92,8 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[John Deere](https://www.deere.com/)** | IT - Cyber Security Summer Intern 2024b | Des Moines, IA, USA </br>Moline, IL, USA | [Apply here](https://careers.deere.com/careers/job/137458615947?utm_source=LinkedIn&domain=johndeere.com) | 🛂 | Unknown |
 | **[Whirlpool](https://www.whirlpool.com/)** | Global IT Cybersecurity Immersion Intern - May 2024 Start Date | Benton Harbor, Michigan, USA | [Apply here](https://jobs.whirlpool.com/careers/job/34377463996-global-it-cybersecurity-immersion-intern-may-2024-start-date-benton-harbor-michigan-usa?domain=whirlpool.com) | 🛂 | Unknown |
 | **[Hillenbrand](https://hillenbrand.com/)** | Cyber Security Intern | Columbus, OH, USA | [Apply here](https://hillenbrand.wd3.myworkdayjobs.com/Global/job/Columbus-OH-USA/Cyber-Security-Intern_R-1518?source=Linkedin) | ❓ | January 26, 2024 |
+| **[Marco Technologies](https://www.marconet.com/)** | Cyber Security Intern | St. Cloud, MN, USA </br>Minnetonka, MN, USA | [Apply here](https://jobs.lever.co/marco/68a8dd9a-dc1f-4343-b4f1-88da3b1960bb) | 🛂 | Unknown |
+| **[Custom Manufacturing & Engineering](https://www.custom-mfg-eng.com/)** | Cybersecurity Intern | Pinellas Park, FL, USA | [Apply here](https://custommfgeng.applicantpro.com/jobs/3218467-576864) | 🛂 🇺🇸 | Unknown |
 
 ## Retailer / Consumer Goods 🏬
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -117,3 +121,5 @@ Use this repo to share and keep track of cyber/information security internships!
 | --- | --- | --- | :---: | :---: | :---: |
 | **[D.R. Horton](https://www.drhorton.com/)** | Summer 2024 IT Intern - Cyber Security | Arlington, TX, USA | [Apply here](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2304322&lang=en) | ❓ | September 6, 2023 |
 | **[Colas USA](https://www.colasusa.com/)** | IT Security Intern | Unknown | [Apply here](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2304322&lang=en) | ❓ | Unknown |
+| **[Sherwin Williams](https://www.sherwin-williams.com)** | Cybersecurity Co-Op | Cleveland, OH, USA | [Apply here](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2402150?utm_medium=jobshare) | 🛂 | January 29, 2024 |
+| **[Legendary Entertainment](https://www.legendary.com/)** | Intern, Cyber Security and Compliance - Summer 2024 | Burbank, CA, USA | [Apply here](https://dc1prodrecruiting.paylocity.com/Recruiting/Jobs/Details/2194812/Legendary-Entertainment?source=LinkedIn_Feed) | 🗺 | Unknown |
