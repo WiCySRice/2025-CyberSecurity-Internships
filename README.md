@@ -44,6 +44,7 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[Lawrence Livermore National Laboratory](https://www.llnl.gov/)** | Cybersecurity - Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2024 | Livermore, CA, USA | [Apply here](https://jobs.smartrecruiters.com/LLNL/3743990003267066-cybersecurity-undergraduate-intern-cyber-and-critical-infrastructure-summer-institute-summer-2024?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | 🇺🇸 | Unknown |
 
 ## Defense Contractors 📄
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -66,6 +67,8 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Idaho Central Credit Union](https://www.iccu.com/)** | IT Security Intern | Meridian, ID, USA | [Apply here](https://careers-iccu.icims.com/jobs/6486/it-security-intern/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=735&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | ❓ | Unknown |
 | **[CIBC](https://us.cibc.com/)** | US Information Security - 2024 Intern | Chicago, IL, USA | [Apply here](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Chicago-IL/US-Information-Security---2024-Intern_2322215-1?src=SNS-10261&source=Linkedin) | ❓ | Unknown |
 | **[Chatham Financial](https://www.chathamfinancial.com/)** | 2024 Information Security Intern | Kennett Square, PA, USA | [Apply here](https://boards.greenhouse.io/chathamfinancial/jobs/5537390?gh_src=2b69d2bd1) | ❓ | Unknown |
+| **[Ameritas](https://www.ameritas.com/)** | Information Security Intern | Cincinnati, OH, USA </br>Lincoln, NE, USA | [Apply here](https://recruiting.adp.com/srccar/public/RTI.home?r=5000959723400&c=1206501&d=ExternalCareerSite&rb=APPCAST#/) | ❓ | Unknown |
+| **[West Bend Insurance Company](https://www.thesilverlining.com/)** | Intern - Information Security (Summer 2024) | West Bend, WI, USA | [Apply here](https://careers-thesilverlining.icims.com/jobs/1879/intern---information-security-%28summer-2024%29/job) | ❓ | Unknown |
 
 ## Consulting 🤝
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -74,6 +77,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Guidehouse](https://guidehouse.com/)** | Intern - Defense & Security - Campus 2024 | McLean, VA, USA </br>Arlington, VA, USA </br>Tampa, FL, USA </br>Huntsville, AL, USA | [Apply here](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Intern---Defense---Security---Campus-2024_12095?q=defense%20&%20security&redirect=/External/job/US---VA-McLean/Intern---Defense---Security--Technology-Consulting---Campus-2024_12290/apply?source=REC_LINKEDIN?utm_source=linkedin.com&ss=paid) | 🗺️ ❓ | August 20, 2023 |
 | **[POWER Engineers](https://www.powereng.com/)** | Infrastructure Cyber Security Intern | Boise, ID, USA | [Apply here](https://phh.tbe.taleo.net/phh04/ats/careers/requisition.jsp?org=POWERENGINEERS&cws=1&rid=15539) | 🛂 | Unknown |
 | **[HDR](https://www.hdrinc.com/)** | Cybersecurity Intern | Honolulu, HI, USA | [Apply here](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?src=SNS-10025&job=176368&lang=en) | ❓ | Unknown |
+| **[PwC](https://www.pwc.com)** | Cyber Security Consulting Intern - Summer 2025 - Women's Consulting Experience | Multiple Locations in USA | [Apply here](https://jobs.us.pwc.com/job/-/-/932/59579182928?ss=paid&utm_campaign=core_media&utm_medium=social_media&utm_source=linkedin.com&utm_content=job_posting) | 🗺️ 🛂 (Specifically H-1B Lottery) | Unknown |
 
 ## Energy 💡
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -89,6 +93,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Medpace](https://www.medpace.com/)** | Information Security Intern- Summer 2024 | Cincinnati, OH, USA | [Apply here](https://careers.medpace.com/jobs/9385?mode=apply&iis=LinkedIn&lang=en-us) | ❓ | Unknown |
 | **[Health Care Service Corporation](https://www.hcsc.com/)** | University Relations – Cybersecurity IAM Associate Intern | Chicago, IL, USA </br>Richardson, TX, USA | [Apply here](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/University-Relations---Cybersecurity-IAM-Associate-Intern_R0022051?eresc=LinkedIn) | 🛂 | January 22, 2024 |
 | **[Capital Blue Cross](https://www.capbluecross.com/)** | Information Security Intern | Harrisburg, PA, USA | [Apply here](https://careers-capbluecross.icims.com/jobs/2562/information-security-intern/job?mobile=false&width=735&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | ❓ | Unknown |
+| **[Blue Cross Blue Shield of Arizona](https://www.azblue.com/)** | Intern - IT Information Security (Info Sec, Summer 2024) | Phoenix, AZ, USA | [Apply here](https://bcbsaz.wd1.myworkdayjobs.com/BCBSAZCareers/job/Phoenix/Intern---IT-Information-Security--Info-Sec--Summer-2024-_R4246?source=LinkedIn) | 🗺️ | January 16, 2024 |
 
 ## Machinery / Tools / HVAC / Water 🛠️ 🚰
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -117,6 +122,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | --- | --- | --- | :---: | :---: | :---: |
 | **[Ford](https://www.ford.com/)** | 2024 Cyber Security Internship | Dearborn, MI, USA </br> Hybrid | [Apply here](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17190) | 🛂 | September 1, 2023 |
 | **[Shamrock Foods](https://www.shamrockfoodservice.com/)** | Summer 2024 - IT Security Intern | Phoenix, AZ, USA | [Apply here](https://recruiting2.ultipro.com/SHA1012SHRO/JobBoard/bd133796-9230-4370-9ed3-1ee1ae84a55f/OpportunityDetail?opportunityId=2eac511c-1f8a-4a54-854f-2f215bf2e46c) | ❓ | Decmeber 22, 2023 |
+| **[XPO](https://www.xpo.com/)** | Tech Program Intern III (Information Security) - Hybrid | North Richland Hills, TX, USA | [Apply here](https://jobs.xpo.com/job/North-Richland-Hills-Tech-Program-Intern-III-%28Information-Security%29-Hybrid-TX-76180/1111189600/?feedId=197200&utm_source=LinkedInJobPostings&utm_campaign=XPO_Linkedin) | ❓ | Unknown |
 
 ## Sports / Sports Equipment 🏃
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
