@@ -83,6 +83,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Daiichi Sankyo](https://www.daiichisankyo.com/)** | IT Cyber Security Intern | Basking Ridge, NJ, USA | [Apply here](https://daiichisankyo.wd1.myworkdayjobs.com/en-US/DSI/job/Basking-Ridge-NJ/IT-Cyber-Security-Intern_R2691?source=LinkedIn) | 🗺 | Late 2023 |
 | **[Medpace](https://www.medpace.com/)** | Information Security Intern- Summer 2024 | Cincinnati, OH, USA | [Apply here](https://careers.medpace.com/jobs/9385?mode=apply&iis=LinkedIn&lang=en-us) | ❓ | Unknown |
 | **[Health Care Service Corporation](https://www.hcsc.com/)** | University Relations – Cybersecurity IAM Associate Intern | Chicago, IL, USA </br>Richardson, TX, USA | [Apply here](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/University-Relations---Cybersecurity-IAM-Associate-Intern_R0022051?eresc=LinkedIn) | 🛂 | January 22, 2024 |
+| **[Capital Blue Cross](https://www.capbluecross.com/)** | Information Security Intern | Harrisburg, PA, USA | [Apply here](https://careers-capbluecross.icims.com/jobs/2562/information-security-intern/job?mobile=false&width=735&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | ❓ | Unknown |
 
 ## Machinery / Tools / HVAC / Water 🛠️ 🚰
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -94,6 +95,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Hillenbrand](https://hillenbrand.com/)** | Cyber Security Intern | Columbus, OH, USA | [Apply here](https://hillenbrand.wd3.myworkdayjobs.com/Global/job/Columbus-OH-USA/Cyber-Security-Intern_R-1518?source=Linkedin) | ❓ | January 26, 2024 |
 | **[Marco Technologies](https://www.marconet.com/)** | Cyber Security Intern | St. Cloud, MN, USA </br>Minnetonka, MN, USA | [Apply here](https://jobs.lever.co/marco/68a8dd9a-dc1f-4343-b4f1-88da3b1960bb) | 🛂 | Unknown |
 | **[Custom Manufacturing & Engineering](https://www.custom-mfg-eng.com/)** | Cybersecurity Intern | Pinellas Park, FL, USA | [Apply here](https://custommfgeng.applicantpro.com/jobs/3218467-576864) | 🛂 🇺🇸 | Unknown |
+| **[Elbit Systems of America](https://www.elbitamerica.com/)** | Cyber Security Engineering Intern - REF1720G - Summer and Fall 2024 | Fort Worth, TX, USA | [Apply here](https://custommfgeng.applicantpro.com/jobs/3218467-576864) | 🗺 | Unknown |
 
 ## Retailer / Consumer Goods 🏬
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -123,3 +125,4 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Colas USA](https://www.colasusa.com/)** | IT Security Intern | Unknown | [Apply here](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2304322&lang=en) | ❓ | Unknown |
 | **[Sherwin Williams](https://www.sherwin-williams.com)** | Cybersecurity Co-Op | Cleveland, OH, USA | [Apply here](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2402150?utm_medium=jobshare) | 🛂 | January 29, 2024 |
 | **[Legendary Entertainment](https://www.legendary.com/)** | Intern, Cyber Security and Compliance - Summer 2024 | Burbank, CA, USA | [Apply here](https://dc1prodrecruiting.paylocity.com/Recruiting/Jobs/Details/2194812/Legendary-Entertainment?source=LinkedIn_Feed) | 🗺 | Unknown |
+| **[Johns Hopkins Applied Physics Laboratory](https://www.jhuapl.edu/)** | 2024 Internship - Cyber Security - Cyber Dominance | Laurel, MD, USA | [Apply here](https://careers.jhuapl.edu/jobs/53492?lang=en-us) | 🇺🇸 | Unknown |
