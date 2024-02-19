@@ -128,6 +128,7 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[Major League Baseball](https://www.mlb.com/)** | Information Security Internship | New York City, NY, USA | [Apply here](https://www.mlb.com/careers/opportunities?gh_jid=5652337) | 🗺 | Unknown |
 
 ## Miscellaneous :octocat:
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
