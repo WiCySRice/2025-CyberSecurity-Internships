@@ -79,4 +79,3 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[AMH](https://www.amh.com/)** | IT Security Internship | Calabasas, CA, USA | [Apply here](https://ejpe.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4398?utm_medium=jobboard&utm_source=linkedin) | ❓ | Unknown |
