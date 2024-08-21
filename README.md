@@ -19,6 +19,10 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[TikTok](https://www.tiktok.com/)** | Third Party Security Management Analyst Intern (Global Security) - 2025 Summer (BS/MS) | [Washington, DC, USA](https://careers.tiktok.com/position/7397102250924296457/detail?spread=5MWH5CQ) | [New York, USA](https://careers.tiktok.com/position/7397103769861605659/detail?spread=5MWH5CQ) | Refer to location links for applications | ❓ | August 1, 2024 |
+| **[TikTok](https://www.tiktok.com/)** | Security Data Scientist Intern (Security Execution and Performance) - 2025 Summer (BS/MS) | San Jose, CA, USA | [Apply Here](https://careers.tiktok.com/position/7397101264976857395/detail?spread=5MWH5CQ) | ❓ | August 1, 2024 |
+| **[TikTok](https://www.tiktok.com/)** | Cyber Security Intern (Threat Detection Response) - 2025 Summer (BS/MS) | San Jose, CA, USA | [Apply Here](https://careers.tiktok.com/position/7397102250142730505/detail?spread=5MWH5CQ) | ❓ | August 1, 2024 |
+| **[TikTok](https://www.tiktok.com/)** | Security Program Management Intern (Security Advocacy and Culture) - 2025 Summer (BS/MS) | San Jose, CA, USA | [Apply Here](https://careers.tiktok.com/position/7397103030128085275/detail?spread=5MWH5CQ) | ❓ | August 1, 2024 |
 
 ## Cyber Security 🔐
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -39,6 +43,9 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[SWBC](https://www.swbc.com/)** | IT Intern (Information Security) | San Antonio, TX, USA | [Apply here](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/IT-Intern--Information-Security-_R0011846-2) | ❓ | August 15, 2024 |
+| **[American Express](https://www.americanexpress.com/)** | ICampus Undergraduate - 2025 Technology Information Security Summer Intern | Phoenix, AZ, USA | [Apply here](https://aexp.eightfold.ai/careers/job/24562589?domain=aexp.com) | ❓ | August 20, 2024 |
+| **[Macquarie Group](https://www.macquarie.com/au/en.html)** | ICampus Undergraduate - 2025 Technology Information Security Summer Intern - Cyber Threat Incident Response (CTIR) | Houston, TX, USA | [Apply here](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11703) | ❓ | August 1, 2024 |
 
 ## Consulting 🤝
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -59,6 +66,7 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[Grainger](https://www.grainger.com/)** | GTG Intern - Cybersecurity | Chicago, IL, USA | [Apply here](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Cybersecurity-IL-60661-4555/1203373700/?feedId=288400) | ❓ | August 16, 2024 |
 
 ## Retailer / Consumer Goods 🏬
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -69,6 +77,7 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[Delta Air Lines](https://www.delta.com/)** | Intern, IT - Information Security (Summer 2025) | Atlanta, GA, USA | [Apply here](https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Information-Security-Summer-2025/25670?jobId=25670) | ❓ | August 13, 2024 |
 
 ## Sports / Sports Equipment 🏃
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -80,3 +89,5 @@ Use this repo to share and keep track of cyber/information security internships!
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
 | **[PepsiCo](https://www.pepsico.com/)** | 2025 Summer Intern: Technology Cyber Security | Plano, TX, USA | [Apply here](https://www.pepsicojobs.com/main/jobs/315337?lang=en-us) | ❓ | August 13, 2024 |
+| **[Vivint](https://www.vivint.com/)** | Application Security Intern | Boston, MA, USA | [Apply here](https://vivint.wd5.myworkdayjobs.com/vivintjobs/job/Boston-MA/Application-Security-Intern_R123136) | ❓ | Summer 2024 |
+| **[Talution Group](https://www.talution.com/)** | Information Security Analyst Intern | Texas, USA | [Apply here](https://careers.talution.com/Information-Security-Analyst-Intern-Jobs-in-REMOTE-TX/11138704) | ❓ | August 16, 2024 |
