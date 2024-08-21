@@ -79,3 +79,4 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
+| **[PepsiCo](https://www.pepsico.com/)** | 2025 Summer Intern: Technology Cyber Security | Plano, TX, USA | [Apply here](https://www.pepsicojobs.com/main/jobs/315337?lang=en-us) | ❓ | August 13, 2024 |
