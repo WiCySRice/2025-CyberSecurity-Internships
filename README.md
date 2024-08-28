@@ -4,7 +4,7 @@ Use this repo to share and keep track of cyber/information security internships!
 
 💡 Inspired by [Summer Tech Internships by Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2024-Internships) 💡
 
-✉️ **Contribute by submitting an [issue](https://github.com/WiCySRice/2025CyberSecurity-Internships/issues/new/choose)!** ✉️
+✉️ **Contribute by submitting an [issue](https://github.com/WiCySRice/2025-CyberSecurity-Internships/issues/new/choose)!** ✉️
 
 ---
 
