@@ -66,7 +66,6 @@ Use this repo to share and keep track of cyber/information security internships!
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Company | Role | Location | Application/Link | Info | Date Posted |
 | --- | --- | --- | :---: | :---: | :---: |
-| **[Grainger](https://www.grainger.com/)** | GTG Intern - Cybersecurity | Chicago, IL, USA | [Apply here](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Cybersecurity-IL-60661-4555/1203373700/?feedId=288400) | ❓ | August 16, 2024 |
 
 ## Retailer / Consumer Goods 🏬
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
